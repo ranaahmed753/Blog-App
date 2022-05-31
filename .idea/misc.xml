@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/arrow_back.xml" value="0.2713541666666667" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/arrow_button_back.xml" value="0.2713541666666667" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/bio_container.xml" value="0.2671794871794872" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/card_container.xml" value="0.24166666666666667" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/edit_image_button.xml" value="0.24666666666666667" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/email_container.xml" value="0.2671794871794872" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/filled_btn.xml" value="0.14537037037037037" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/follow_count_container.xml" value="0.24166666666666667" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/fragment_profile_back.xml" value="0.15729166666666666" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/fragment_setting_card.xml" value="0.19375" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/heart_filled.xml" value="0.17760416666666667" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/heart_unfilled.xml" value="0.17760416666666667" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/home_navigation_icon.xml" value="0.2713541666666667" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/ic_bio.xml" value="0.2671794871794872" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/ic_email.xml" value="0.24666666666666667" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/ic_username.xml" value="0.2671794871794872" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/image_container_back.xml" value="0.15729166666666666" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/image_file.xml" value="0.2713541666666667" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/layout_active.xml" value="0.19375" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/layout_bubble.xml" value="0.24166666666666667" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/layout_inactive.xml" value="0.19375" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/nav_container.xml" value="0.23385416666666667" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/outline_business.xml" value="0.2671794871794872" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/outline_email.xml" value="0.2671794871794872" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/outline_image.xml" value="0.2713541666666667" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/outline_phone.xml" value="0.2671794871794872" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/outline_post.xml" value="0.2671794871794872" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/outline_username.xml" value="0.2671794871794872" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/phone_container.xml" value="0.2671794871794872" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/post_btn_back.xml" value="0.17760416666666667" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/post_btn_layout.xml" value="0.19947916666666668" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/post_container.xml" value="0.2671794871794872" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/post_dialog_back.xml" value="0.17760416666666667" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/post_text_back.xml" value="0.2713541666666667" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/question_answer.xml" value="0.24166666666666667" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/register_btn.xml" value="0.14537037037037037" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/register_card_back.xml" value="0.14537037037037037" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/register_card_gradient.xml" value="0.14537037037037037" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/reply_icon.xml" value="0.24166666666666667" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/share_post.xml" value="0.25555555555555554" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/update_profile_buttton.xml" value="0.19375" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/user_photo_layout.xml" value="0.21927083333333333" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/drawable/username_container.xml" value="0.2671794871794872" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/layout/activity_login.xml" value="0.1897644927536232" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/layout/activity_register.xml" value="0.1897644927536232" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/layout/child_user.xml" value="0.203125" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/layout/custom_post_dialog.xml" value="0.19427083333333334" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/layout/fragment_hello.xml" value="0.20833333333333334" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/layout/fragment_home.xml" value="0.14" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/layout/fragment_profile.xml" value="0.22" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/layout/fragment_settings.xml" value="0.22" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/layout/mypost.xml" value="0.184375" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/layout/post.xml" value="0.1703125" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/layout/post_alert_dialog.xml" value="0.18125" />
+        <entry key="..\:/Rana/Android/Coding/Kotlin/Blog App/Blog App/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.2552083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
